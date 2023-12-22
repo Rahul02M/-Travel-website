@@ -12,5 +12,5 @@
 - Simple Design
 
 # Screenshots
-Include screenshots  showcasing your website’s UI. 
+Include screenshots  showcasing  website’s UI. 
 -Desktop
