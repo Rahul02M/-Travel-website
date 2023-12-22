@@ -4,7 +4,7 @@
 
 # Features
 
-- Highlight the key features of your travel website. For example:<br>
+ Highlight the key features of your travel website. For example:<br>
 
 - Responsive Design
 - Smooth Navigation
