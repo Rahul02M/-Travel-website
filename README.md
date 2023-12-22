@@ -1,3 +1,16 @@
-# Travel Website using React.js, Vite, and Tailwind CSS
+# Travel Website (🏝️TripPixie)
 
-“I crafted a single-page website using React JS (React & Vite) And Tailwind CSS. Additionally, I ensured that the website is fully responsive across various devices.” 🌎🏞️
+“I crafted a  basic single-page website using React JS (React & Vite) And Tailwind CSS. Additionally, I ensured that the website is fully responsive across various devices.” 🌎🏞️
+
+# Features
+
+- Highlight the key features of your travel website. For example:<br>
+
+- Responsive Design
+- Smooth Navigation
+- Single-page website
+- Simple Design
+
+# Screenshots
+Include screenshots  showcasing your website’s UI. 
+-Desktop
