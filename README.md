@@ -10,7 +10,7 @@
 - Smooth Navigation
 - Single-page website
 - Simple Design
-
+. Happy coding! 🚀
 # Screenshots
 Include screenshots  showcasing  website’s UI. 
 <br>
